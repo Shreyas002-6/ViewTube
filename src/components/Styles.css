@@ -1,0 +1,16 @@
+.box1{
+  background-image: url( '../imgs/back1.svg' );
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#outlined-basic{
+    color: black;
+    background-color: whitesmoke;
+    border-radius: 10px;
+}
+
+
+
+
+
